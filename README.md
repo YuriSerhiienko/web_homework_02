@@ -1,1 +1,4 @@
-# web_homework_02
+<!-- This program is a command line interface for working with the phone book and notepad. In general, this code implements the basic functionality of the phone book and notebook and can be expanded and improved depending on the user's needs.
+The program allows you to add new contacts to the phone book, change information about contacts, create and change notes in a notebook, search for contacts and notes by various criteria, display all contacts and notes, sort information as well as sort files in the fiven folders organising them by extensions and other operations.
+The program consists of a set of classes such as Record, AddressBook, Name, Email, Birthday, Phone, Notebook, RecordNote, Hashtag and others. The AddressBook class is responsible for managing contacts in the phone book, and the Notebook class is responsible for managing notes in the notebook.
+You can see all the commands and their syntax by typing 'help' in the command line4 -->
